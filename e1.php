@@ -12,7 +12,7 @@
    
     setcookie("Entrada usuario" , "visita" , time()+(7*24*60*60));
     if (setcookie("Entrada usuario")) {
-        # code...
+        # code...zxczxc
     }
     ?>
 
